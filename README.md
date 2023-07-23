@@ -13,7 +13,7 @@
        ```
 - ###  google 设备认证 SafetyNet认证 失效
      1. magisk 把root对谷歌服务、商店等隐藏
-     2. 安装 [Universal SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix) 和 [Universal SafetyNet Fix[MOD]](https://github.com/Displax/safetynet-fix) 模块
+     2. 安装 [Universal SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix) 或 [Universal SafetyNet Fix[MOD]](https://github.com/Displax/safetynet-fix) 模块(最近我系统更新后用原版的失效了，换了mod版后恢复了)
      3. **飞行模式**下多清空几次 play商店 和 play服务 的数据，然后重启之后再打开网络
 ## 思考
 
