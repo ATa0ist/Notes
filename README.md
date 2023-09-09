@@ -36,7 +36,7 @@
 
 - ###  应用分身文件路径
 
-  - /storage/emulated/999/
+  - `/storage/emulated/999/`
 
 - ###  卸载7zip后打开方式还在
 
