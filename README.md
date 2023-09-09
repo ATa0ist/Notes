@@ -13,7 +13,7 @@
   - ```bash
           git reset --hard a6sd485(版本号)
           git push -f origin(本地分支名称) main(远程分支名称)
-       ```
+    ```
 
 - ###  google 设备认证 SafetyNet认证 失效
 
@@ -37,6 +37,10 @@
 - ###  应用分身文件路径
 
   - /storage/emulated/999/
+
+- ###  卸载7zip后打开方式还在
+
+  - 注册表 `HKEY_CLASSES_ROOT\Applications` 里删除相关项目
 
 ## 思考
 
